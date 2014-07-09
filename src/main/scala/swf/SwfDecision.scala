@@ -1,0 +1,5 @@
+package swf
+
+class SwfDecision {
+
+}
